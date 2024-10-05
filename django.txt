@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=s7aINQPGNDM
+https://www.youtube.com/watch?v=c-QsfbznSXI
+# To create a project 
+django-admin startproject xxxx
+
+# To run the server for django
+python manage.py runserver
